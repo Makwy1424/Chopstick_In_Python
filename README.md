@@ -1,4 +1,4 @@
- #  Chopsticks game
+  
 #                                    Chopsticks Game
 ## Rules of the Game (2 Player Version):
 This official set of rules is called rollover where five fingers are subtracted
